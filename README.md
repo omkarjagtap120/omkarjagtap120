@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Omkar+Jagtap+%F0%9F%91%8B;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Java;Building+Real-World+Web+%26+Android+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Omkar+Jagtap+%F0%9F%91%8B;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+JavaScript+%7C+Java;Building+Real-World+Web+%26+Android+Apps)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omkarjagtap120&label=Profile+Views&color=2f81f7&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/omkarjagtap120?label=Followers&style=flat-square&color=2f81f7)](https://github.com/omkarjagtap120)
