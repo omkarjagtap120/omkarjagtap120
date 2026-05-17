@@ -41,7 +41,6 @@ I love building end-to-end web platforms and Android applications — from desig
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 📱 Android Development
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
@@ -62,9 +61,7 @@ I love building end-to-end web platforms and Android applications — from desig
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -80,44 +77,7 @@ I love building end-to-end web platforms and Android applications — from desig
 [![GitHub Streak](https://streak-stats.demolab.com?user=omkarjagtap120&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-
 ---
-
-## 🚀 Featured Projects
-
-### 📱 1. Parental Control Android Application
-> A mobile application built with **Java & Android Studio** to help parents monitor and manage their children's screen time and app usage. Features real-time app tracking, access restriction controls, and a clean, user-friendly interface backed by **Firebase**.
-
-| | |
-|---|---|
-| 🛠️ **Tech Stack** | Java · Android Studio · XML · Firebase · Android SDK |
-| 🔑 **Key Features** | App usage monitoring, access restrictions, Firebase auth, responsive UI |
-| 📁 **Repository** | [View on GitHub →](https://github.com/omkarjagtap120) |
-
----
-
-### 🎌 2. Anime Streaming Web Application
-> A full-featured anime discovery and streaming platform built with **Next.js** and **React.js**. Users can search, filter, and browse episodes seamlessly. Integrated external data using REST APIs and aggregation techniques, deployed on **Vercel**.
-
-| | |
-|---|---|
-| 🛠️ **Tech Stack** | React.js · Next.js · TailwindCSS · REST APIs · MySQL · Playwright · Vercel |
-| 🔑 **Key Features** | Search & filtering, episode browsing, API integration, responsive design |
-| 📁 **Repository** | [View on GitHub →](https://github.com/omkarjagtap120) |
-
----
-
-### 🔒 3. Secure File Sharing Web Application
-> A secure web-based file upload and sharing system built with **PHP & MongoDB**. Includes user authentication, encrypted file handling, database integration, and a fully responsive frontend.
-
-| | |
-|---|---|
-| 🛠️ **Tech Stack** | PHP · MongoDB · HTML5 · CSS3 |
-| 🔑 **Key Features** | Secure file upload, user authentication, database integration, responsive UI |
-| 📁 **Repository** | [View on GitHub →](https://github.com/omkarjagtap120) |
-
----
-
 ## 🏆 Achievements & Certifications
 
 | 🏅 | Achievement |
@@ -129,12 +89,11 @@ I love building end-to-end web platforms and Android applications — from desig
 | 🎓 | **Diploma in Computer Engineering** · 88.11% · Bhivrabai Sawant Polytechnic |
 
 ---
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-jagtap-1bb3b9263)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkarjagtap120)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarjagtap318@gmail.com)
 
