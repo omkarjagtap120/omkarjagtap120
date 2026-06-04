@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Omkar Jagtap**, a passionate **Full Stack Web Developer** from **Pune, India** 🇮🇳, currently pursuing my **B.Tech in Information Technology** at G.H. Raisoni College of Engineering and Management (CGPA: **8.49**).
+I'm **Omkar Jagtap**, a passionate **Full Stack Web Developer** from **Pune, India** 🇮🇳, currently pursuing my **B.Tech in Information Technology** at G.H. Raisoni College of Engineering and Management (CGPA: **8.56**).
 
 I love building end-to-end web platforms and Android applications — from designing clean, responsive UIs to engineering solid backend systems and RESTful APIs.
 
